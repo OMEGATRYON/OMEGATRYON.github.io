@@ -12,5 +12,5 @@ My setup! for this bootcamp is pretty cool!
 ![setup profile](/img/setup.jpg)
 
 Every bit of code is important to a project, but if i had to pick the most fun i've had with some.
-\#para1 {color: yellow;  background-color: blue; font-style: oblique,
+`#para1 {color: yellow;  background-color: blue; font-style: oblique,`
 honestly anything with CSS! styling is pretty fun.
