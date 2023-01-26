@@ -1,4 +1,4 @@
-# My blog!
+# Blog post 1/26/2023
 Was your first week what you expected? Why? Why not?
 >My first week was not what i expected, I had this thought that it would be really rushed to cram everything we need to learn super fast into our heads. So far it has been the opposite of that.
 
