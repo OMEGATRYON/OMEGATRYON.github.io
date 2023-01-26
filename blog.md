@@ -7,3 +7,6 @@ What are you excited or eager to learn more about?
 
 What is something about you that can only be learned by reading this blog?
 >I would say anyone could see that I am very passonite about what we are doing, most nights it is hard to even go to bed without being excited to wake up the next day and just get at it! its a wonderful feeling.
+
+My setup! for this bootcamp is pretty cool!
+![setup profile](/img/setup.jpg)
