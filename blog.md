@@ -3,6 +3,7 @@ Stressful project
 >After about 7 hours since starting the major project we will be presenting for demo on friday, I had finally finished. I feel like i failed in a way as most of my situation was attempting to google things, fortunently i had a few AHA moments that took me for a Serotonin ride. One of those moments was when i had put all four images into one box to the side of my page. I'd rate this project a 10/10. 
 
 >“Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.” –-- Thomas Edison
+
 >Just as nature takes every obstacle, every impediment, and works around it—turns it to its purposes, incorporates it into itself—so, too, a rational being can turn each setback into raw material and use it to achieve its goal ---- Marcus Aurelius
 
 
