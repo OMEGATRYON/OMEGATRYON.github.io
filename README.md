@@ -1,0 +1,1 @@
+# OMEGATRYON.github.io/blog
