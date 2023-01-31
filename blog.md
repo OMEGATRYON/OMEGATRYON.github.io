@@ -1,5 +1,10 @@
 #MY DEV BLOG
 
+## Blog post 3 ----01/31/2023
+Java/pseudocode
+>The coding portion is really starting to kick off, after learning about javascript my head was spinning. It can be alot to take in, in such a short time BUT in the end the goal is worth it. The only simple solution to any of these problems would to be, Put one foot in front of the other and read along the way.
+
+
 ## Blog post 2 ----01/26/2023
 Stressful project
 >After about 7 hours since starting the major project we will be presenting for demo on friday, I had finally finished. I feel like i failed in a way as most of my situation was attempting to google things, fortunately i had a few AHA moments that took me for a Serotonin ride. One of those moments was when i had put all four images into one box to the side of my page. I'd rate this project a 10/10. 
