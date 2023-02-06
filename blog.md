@@ -15,10 +15,16 @@ What hindered your progress during Onboarding?
 
 
 How did you overcome challenges during Onboarding?
-> Put one foot in front of the other. Thats it really plain and simple, trying to get into this career has been the most difficult challenge for me yet and without staying hopeful toward my goals and walking that extra step I would have fallen day 1. “Only those who dare to fail greatly can ever achieve greatly.” – Robert F. Kennedy
+> Put one foot in front of the other. Thats it really plain and simple, trying to get into this career has been the most difficult challenge for me yet and without staying hopeful toward my goals and walking that extra step I would have fallen day 1. 
 
 
-“If you aren’t in over your head, how do you know how tall you are?” – T.S. Eliot
+
+>“Only those who dare to fail greatly can ever achieve greatly.” – Robert F. Kennedy
+
+
+
+
+>“If you aren’t in over your head, how do you know how tall you are?” – T.S. Eliot
 
 
 
