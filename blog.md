@@ -1,5 +1,28 @@
 #MY DEV BLOG
 
+
+## Blog post 4 ----02/06/2023
+What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and providing user experience?
+>To me it is awesome(inc)!  It has changed how i perceive websites i personally visit. Opening a new website and seeing all of the content exposed on it has me crying internally, just knowing the pain the developer had to go through putting it together. 
+
+
+What are your thoughts on pseudocoding?
+>At the moment i hate it. Not because it is ineffective but because i've only just started my developer journey and so I suck at it, once I get a hold of it and make it useful! sure! im sure our relationship will change.
+
+
+What hindered your progress during Onboarding?
+> JAVASCRIPT!!!! for the life of me i cannot at this current time grasp it. Putting pieces together just do not click for me, its almost as if im reading another language(technically it is!). Its honestly just scary, trying to succeed and not knowing when it will make sense.
+
+
+How did you overcome challenges during Onboarding?
+> Put one foot in front of the other. Thats it really plain and simple, trying to get into this career has been the most difficult challenge for me yet and without staying hopeful toward my goals and walking that extra step I would have fallen day 1. “Only those who dare to fail greatly can ever achieve greatly.” – Robert F. Kennedy
+
+
+“If you aren’t in over your head, how do you know how tall you are?” – T.S. Eliot
+
+
+
+
 ## Blog post 3 ----01/31/2023
 Java/pseudocode
 >The coding portion is really starting to kick off, after learning about javascript my head was spinning. It can be alot to take in, in such a short time BUT in the end the goal is worth it. The only simple solution to any of these problems would to be, Put one foot in front of the other and read along the way.
