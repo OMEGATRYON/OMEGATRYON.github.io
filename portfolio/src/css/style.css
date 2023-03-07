@@ -1,0 +1,12 @@
+html {
+    background-color: rgba(31, 29, 29, 0.459);
+}
+body {
+    background-color:  rgba(31, 29, 29, 0.459);
+    color: white;
+}
+
+#intro {
+    font-size: 40px;
+    margin-top: 150px;
+}
