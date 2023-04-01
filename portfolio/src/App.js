@@ -1,15 +1,10 @@
-import Blog from "./components/blog";
-import Boutme from "./components/Boutme";
-import Header from "./components/Header";
-import BasicExample from "./components/navbar";
+import Navbar from "./components/navbar";
+
 
 function App() {
   return (
     <div className="App">
-      <BasicExample />
-      <Header />
-      <Boutme />
-      <Blog />
+      <Navbar />
     </div>
   );
 }
