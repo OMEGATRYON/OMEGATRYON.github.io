@@ -6,7 +6,7 @@ const Navbar = () => {
     <div>
         <Nav>
             <NavLink to="/">
-              <h1>LOGO</h1>
+              <h1>Home</h1>
             </NavLink>
             <Bars />
             <NavMenu>
@@ -24,7 +24,7 @@ const Navbar = () => {
                 </NavLink>
             </NavMenu>
             <NavBtn>
-                <NavBtnLink to="/signin">sign in</NavBtnLink>
+                <NavBtnLink to="/signin">Show off</NavBtnLink>
             </NavBtn>
         </Nav>
     </div>
