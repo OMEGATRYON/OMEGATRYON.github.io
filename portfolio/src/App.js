@@ -1,16 +1,18 @@
-import Blog from "./components/blog";
-import Boutme from "./components/Boutme";
-import Header from "./components/Header";
-import BasicExample from "./components/navbar";
+import Navbar from "./components/navbar";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import './css/style.css';
+import Home from './pages'
+import Projects from './pages/projects'
 
 function App() {
   return (
-    <div className="App">
-      <BasicExample />
-      <Header />
-      <Boutme />
-      <Blog />
-    </div>
+    <Router>
+      <Navbar />
+      <Routes>
+        <Route path="/" exact element={<Home/>}/>
+        <Route path="/projects" element={<Projects/>}/>
+      </Routes>
+    </Router>
   );
 }
 

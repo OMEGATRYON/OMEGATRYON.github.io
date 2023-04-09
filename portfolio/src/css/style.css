@@ -1,12 +1,48 @@
-html {
-    background-color: rgba(31, 29, 29, 0.459);
-}
+@import url('https://fonts.googleapis.com/css2?family=sora&display=swap');
 body {
-    background-color:  rgba(31, 29, 29, 0.459);
-    color: white;
+    background: linear-gradient(rgb(235, 230, 230),rgb(175, 172, 172));
 }
 
-#intro {
-    font-size: 40px;
-    margin-top: 150px;
+* {
+    font-family: 'Sora', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
+
+.circle-photo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .circle-photo {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+  }
+  
+  .description {
+    margin-top: 20px;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 25px;
+  border: 2px solid black;
+  }
+  
+  .tryhead {
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+  }
+
+  .langbio {
+    font-family: 'Cinzel', serif;
+    font-size: 15px;
+  }
+
+  .langtwo {
+    font-family: 'Cinzel', serif;
+    font-size: 15px;
+  }
