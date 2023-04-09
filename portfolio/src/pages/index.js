@@ -2,20 +2,9 @@ import React from 'react'
 
 const Home = () => {
   return (
-    <>
-        <p className="h1 text-center">Welcome to my Blog!</p>
-        <div id="paragraphIntro">
-          <p id="intro" className="text-center">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-            veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-            commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-            cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
-            est laborum.
-          </p>
-        </div>
-      </>
+    <div className="circle-photo-container">
+    <img src="/images/header.jpg" alt="header of me" className="circle-photo" />
+  </div>
   )
 }
 

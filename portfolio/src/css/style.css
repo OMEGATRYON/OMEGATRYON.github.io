@@ -6,3 +6,18 @@
     margin: 0;
     padding: 0;
 }
+
+.circle-photo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .circle-photo {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+  }
+  
