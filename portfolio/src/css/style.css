@@ -21,3 +21,25 @@
     object-fit: cover;
   }
   
+  .description {
+    margin-top: 20px;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 25px;
+  border: 2px solid black;
+  }
+  
+  .tryhead {
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+  }
+
+  .langbio {
+    font-family: 'Cinzel', serif;
+    font-size: 15px;
+  }
+
+  .langtwo {
+    font-family: 'Cinzel', serif;
+    font-size: 15px;
+  }
