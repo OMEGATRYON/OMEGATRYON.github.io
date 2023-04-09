@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=sora&display=swap');
+body {
+    background: linear-gradient(rgb(235, 230, 230),rgb(175, 172, 172));
+}
 
 * {
     font-family: 'Sora', sans-serif;
