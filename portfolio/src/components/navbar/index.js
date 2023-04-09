@@ -3,7 +3,7 @@ import {Nav, NavLink, Bars, NavMenu, NavBtn, NavBtnLink} from './NavbarElements'
 
 const Navbar = () => {
   return (
-    <div>
+    <div className='Navtest'>
         <Nav>
             <NavLink to="/">
               <h1>Home</h1>
